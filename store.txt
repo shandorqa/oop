@@ -1,0 +1,4 @@
+GalaHotel|3|gagarina 12|999111|60|10|34
+FiveStars|3|univer, 21|999111|33|10|12
+SurGU|4|Lenina, 1|222333|444|0|3
+testhotel|6|gagarina 88|8-982-222-55-02|111|15|150
