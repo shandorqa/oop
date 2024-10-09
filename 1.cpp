@@ -84,7 +84,7 @@ void printHotels() {
               << std::setw(20) << "Name"
               << std::setw(7) << "Stars"
               << std::setw(20) << "Address"
-              << std::setw(15) << "Phone"
+              << std::setw(20) << "Phone"
               << std::setw(10) << "Rooms"
               << std::setw(12) << "Lux Rooms"
               << std::setw(12) << "Free Rooms"
@@ -97,7 +97,7 @@ void printHotels() {
                   << std::setw(20) << hotelList[i].name
                   << std::setw(7) << hotelList[i].stars
                   << std::setw(20) << hotelList[i].address
-                  << std::setw(15) << hotelList[i].phone
+                  << std::setw(20) << hotelList[i].phone
                   << std::setw(10) << hotelList[i].rooms
                   << std::setw(12) << hotelList[i].lux_rooms
                   << std::setw(12) << hotelList[i].free_rooms
